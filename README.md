@@ -7,11 +7,11 @@ This is a tutorial in an python Notebook for the Kaggle competition, Titanic Mac
 
 Throughout the notebook, following libraries have been used
 
-1.[Pandas](https://pandas.pydata.org/)
-2.[Numpy](https://numpy.org/)
-3.[Scikit-leaarn](https://scikit-learn.org/stable/)
-4.[Matplotlib](https://matplotlib.org/)
-5.[Seaborn](https://seaborn.pydata.org/)
+1.[Pandas](https://pandas.pydata.org/).
+2.[Numpy](https://numpy.org/).
+3.[Scikit-leaarn](https://scikit-learn.org/stable/).
+4.[Matplotlib](https://matplotlib.org/).
+5.[Seaborn](https://seaborn.pydata.org/).
 
 Problem statement, from kaggle competition [homepage](https://www.kaggle.com/c/titanic)
 
