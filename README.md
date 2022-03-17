@@ -1,5 +1,5 @@
 # Titanic-Machine-learning-from-Disaster
-## Ahoy, welcome to this repository. Machine learning from a disaster using python
+## Ahoy, welcome to this repository. Machine learning from disaster using python
 
 Exploratoray Data Analysis, Feature engineering using Python, Jupyter Notebook.
 
